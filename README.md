@@ -14,9 +14,10 @@ To Run this:
                                         
 4-cd into the directory 
 
-5- type into terminal: java -jar (jar file name).jar -in (textfilename).txt -provider(or other modes refer to BeyondGood class)
-
+5- type into terminal: java -jar (jar file name).jar -in (textfilename).txt -provider(Most up to date and with all features.                                                                                        Can use other prior modes and save and                                                                                        open mode by checking BeyondGoodclass.)
 6 - Enjoy! 
 
 Functions Supported: LessThan, Left, Product, Sum
+
+To save and Open files look at SaveFileClass in view and BeyondGood --edit arg. To look at updated Features and such look at Provider directory. 
                         
