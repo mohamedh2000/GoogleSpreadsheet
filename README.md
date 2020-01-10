@@ -10,15 +10,13 @@ To Run this:
            
 2- Move the jar file into a folder/directory of your choice. 
 
-3- Move the InputTest1.txt or create your own test file
-   In the Text file make sure it is: ColumnxRow = (Either boolean, number, String, or function)
-                                    Ex: A2 = true 
-                                        A1 = (SUM A1 A4
-                                        ...
+3- Move test text files from Resources folder into the same directory, or create your own txt file. 
                                         
 4-cd into the directory 
 
 5- type into terminal: java -jar (jar file name).jar -in (textfilename).txt -provider(or other modes refer to BeyondGood class)
 
 6 - Enjoy! 
+
+Functions Supported: LessThan, Left, Product, Sum
                         
