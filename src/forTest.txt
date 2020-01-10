@@ -1,0 +1,7 @@
+A2 = true 
+A1 = 50.0 
+E3 = false 
+CV50 = (SUM 50.0  50.0 )
+A3 = true 
+C5 = ILoveDogs 
+AX100 = [A1:A2]
