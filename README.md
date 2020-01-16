@@ -15,6 +15,7 @@ To Run this:
 4-cd into the directory 
 
 5- type into terminal: java -jar (jar file name).jar -in (textfilename).txt -provider(Most up to date and with all features.                                                                                        Can use other prior modes and save and                                                                                        open mode by checking BeyondGoodclass.)
+
 6 - Enjoy! 
 
 Functions Supported: LessThan, Left, Product, Sum
